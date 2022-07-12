@@ -1,0 +1,17 @@
+Debug/
+Release/
+x64/
+resources/
+ComputerVision.vcxproj
+ComputerVision.vcxproj.filters
+ComputerVision.vcxproj.user
+/project.4coder
+*.txt
+*.bmp
+*~
+\
+*.cpp.*
+*.bat
+
+
+
