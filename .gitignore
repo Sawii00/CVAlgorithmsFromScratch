@@ -8,6 +8,8 @@ ComputerVision.vcxproj.user
 /project.4coder
 *.txt
 *.bmp
+*.exe
+*.png
 *~
 \
 *.cpp.*
