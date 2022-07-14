@@ -6,5 +6,5 @@ Features:
 - BMP decoding and encoding
 - Basic shape drawing
 - Canny edge
-- Convolutions and blurs with normal and separable filters
+- Multithreaded convolutions and blurs with normal and separable filters
 - Color-space conversions
